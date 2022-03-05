@@ -2,6 +2,8 @@
 
 ## Fixed Issues
 SSL certificate expired: fixed it by adding curl --insecure $3 -o $1 to line 197 of SharedFuncs.sh
+
+
 ---
 
 # Photoshop CC v19 installer for Linux
