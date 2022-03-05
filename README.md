@@ -47,7 +47,7 @@ the installer scripts use a virtual drive of wine and makes a new `winprefix` fo
 
 first of all, you need to clone the repository with this command:
 ```bash
-git clone https://github.com/Gictorbit/photoshopCClinux.git
+https://github.com/kashtechtips/photoshopCClinux
 cd photoshopCClinux
 ```
 then you can easily run `setup.sh` script to install photoshop cc on your Linux distro
